@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey! I’m an IT student diving into the world of tech and AI. I love solving problems, learning new things, and bringing creative ideas to life.
+👋 Hey! I’m an IT student diving into the world of tech, AI, and game development. I love solving problems, learning new things, and bringing creative ideas to life.
 
 
 ## 🌐 Socials:
